@@ -1,0 +1,11 @@
+projects:
+  - name: Documenti in consultazione
+    description: |
+      Questo progetto raccoglie i documenti sottoposti a consultazione pubblica.
+    documents:
+    short_name: DiC
+    website:
+    tags:
+      - documents
+      - public
+      - consultation

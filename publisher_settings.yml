@@ -1,0 +1,11 @@
+publisher:
+  name: Ministero del Turismo
+  description: |
+    Tutti i progetti del Ministero del Turismo
+  github_organization_url: https://github.com/Ministero-del-Turismo
+  short_name: MiTur
+  website: https://www.ministeroturismo.gov.it
+  tags:
+    - documents
+    - public
+  logo: assets/images/Logo.jpg
